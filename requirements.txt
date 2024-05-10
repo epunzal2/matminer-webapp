@@ -1,0 +1,11 @@
+matminer==0.9.2
+pymatgen
+streamlit
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+mysql-connector-python
+joblib
+ipykernel
